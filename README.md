@@ -27,11 +27,8 @@ Requirements:
 - opencv
 - numpy
 - dlib (and the trained model shape_predictor_68_face_landmarks.dat; see below)
---------------------------------------------------------------------------------------------
 
-More useful information about Facial mapping (landmarks) with Dlib + python can be found here:
-https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672
-https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+--------------------------------------------------------------------------------------------
 
 The trained model file shape_predictor_68_face_landmarks.dat can be found here:
 https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
